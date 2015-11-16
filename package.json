@@ -1,0 +1,17 @@
+{
+  "name": "collaborative-text-editor",
+  "version": "1.0.0",
+  "description": "This is a collaborative text editor built using Node.js and WebSocket technology",
+  "main": "server.js",
+  "dependencies": {
+    "node-static": "^0.7.7",
+    "ws": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "NikIvan",
+  "license": "ISC"
+}
